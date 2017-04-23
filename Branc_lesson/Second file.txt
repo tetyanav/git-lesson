@@ -1,3 +1,3 @@
-1.
+1. Create Branch3 from Branch2.
 2.
 3.
