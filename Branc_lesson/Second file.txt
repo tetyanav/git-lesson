@@ -1,3 +1,3 @@
 1. Create Branch3 from Branch2.
 Note: Branch3 has all changes from Branch2!!!
-3.
+2. Modify file3 in Branch3 and commit.
